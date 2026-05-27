@@ -18,6 +18,7 @@ Organised Leetcode Solutions after 17 May
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sameerwork0207/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ Organised Leetcode Solutions after 17 May
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sameerwork0207/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -43,4 +45,5 @@ Organised Leetcode Solutions after 17 May
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sameerwork0207/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sameerwork0207/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
