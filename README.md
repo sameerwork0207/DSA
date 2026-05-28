@@ -6,6 +6,7 @@ Organised Leetcode Solutions after 17 May
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sameerwork0207/DSA/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/sameerwork0207/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sameerwork0207/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -24,6 +25,7 @@ Organised Leetcode Solutions after 17 May
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sameerwork0207/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -43,6 +45,7 @@ Organised Leetcode Solutions after 17 May
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sameerwork0207/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sameerwork0207/DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
