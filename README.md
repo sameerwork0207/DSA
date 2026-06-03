@@ -5,6 +5,7 @@ Organised Leetcode Solutions after 17 May
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sameerwork0207/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sameerwork0207/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/sameerwork0207/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sameerwork0207/DSA/tree/master/0189-rotate-array) |
@@ -21,6 +22,7 @@ Organised Leetcode Solutions after 17 May
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sameerwork0207/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sameerwork0207/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
 ## Math
@@ -40,6 +42,7 @@ Organised Leetcode Solutions after 17 May
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sameerwork0207/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sameerwork0207/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sameerwork0207/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
@@ -52,6 +55,7 @@ Organised Leetcode Solutions after 17 May
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sameerwork0207/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sameerwork0207/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sameerwork0207/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
