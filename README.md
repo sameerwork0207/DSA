@@ -52,10 +52,12 @@ Organised Leetcode Solutions after 17 May
 | [0088-merge-sorted-array](https://github.com/sameerwork0207/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sameerwork0207/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sameerwork0207/DSA/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/sameerwork0207/DSA/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sameerwork0207/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sameerwork0207/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sameerwork0207/DSA/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/sameerwork0207/DSA/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
