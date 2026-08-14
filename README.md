@@ -13,6 +13,7 @@ Organised Leetcode Solutions after 17 May
 | [0189-rotate-array](https://github.com/sameerwork0207/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sameerwork0207/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sameerwork0207/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sameerwork0207/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -41,11 +42,13 @@ Organised Leetcode Solutions after 17 May
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sameerwork0207/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sameerwork0207/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sameerwork0207/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sameerwork0207/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +64,7 @@ Organised Leetcode Solutions after 17 May
 | [0088-merge-sorted-array](https://github.com/sameerwork0207/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sameerwork0207/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sameerwork0207/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/sameerwork0207/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sameerwork0207/DSA/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -73,4 +77,12 @@ Organised Leetcode Solutions after 17 May
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sameerwork0207/DSA/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sameerwork0207/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sameerwork0207/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
