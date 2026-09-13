@@ -30,6 +30,7 @@ Organised Leetcode Solutions after 17 May
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sameerwork0207/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameerwork0207/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sameerwork0207/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sameerwork0207/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sameerwork0207/DSA/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ Organised Leetcode Solutions after 17 May
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameerwork0207/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sameerwork0207/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sameerwork0207/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sameerwork0207/DSA/tree/master/0242-valid-anagram) |
@@ -87,4 +89,8 @@ Organised Leetcode Solutions after 17 May
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sameerwork0207/DSA/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameerwork0207/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
